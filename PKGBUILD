@@ -1,9 +1,9 @@
 pkgname=xfwm4-void-theme
 pkgver=0.0.1
-pkgrel=1
+pkgrel=2
 pkgdesc="a border only theme for xfwm4"
 arch=('any')
-depends=('xfwm4')
+depends=('xfwm4' 'aoaaceai-keyring')
 url='https://github.com/aoaaceai/xfwm4-void-theme'
 source=("$url/archive/refs/tags/v$pkgver.tar.gz")
 license=('unknown')
