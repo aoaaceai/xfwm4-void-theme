@@ -1,0 +1,10 @@
+/* XPM */
+static char * bottom_active = {
+"1 5 1 1",
+"#	c #1C1C1C s active_shadow_1",
+"#",
+"#",
+"#",
+"#",
+"#",
+};

@@ -1,0 +1,10 @@
+/* XPM */
+static char * title_1_active = {
+"1 5 1 1",
+"+	c #090909 s active_shadow_1",
+"+",
+"+",
+"+",
+"+",
+"+",
+};
